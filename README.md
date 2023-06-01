@@ -1,3 +1,4 @@
 # project
  Doing something you do enjoy
-//Hi, welcome to my project!
+
+Hi, welcome to my project!
